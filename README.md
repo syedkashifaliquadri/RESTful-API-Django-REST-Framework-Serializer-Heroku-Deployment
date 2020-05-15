@@ -1,3 +1,3 @@
 # RestfulAPI-Django-Rest-Framework-Serializer-Python
 
-https://restapi-serializer.herokuapp.com/
+Visit this link for live app: https://restapi-serializer.herokuapp.com/
